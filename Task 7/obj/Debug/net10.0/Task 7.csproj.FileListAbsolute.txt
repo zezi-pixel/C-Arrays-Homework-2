@@ -1,0 +1,14 @@
+D:\projects\Arrays Homework 2\Task 7\bin\Debug\net10.0\Task 7.exe
+D:\projects\Arrays Homework 2\Task 7\bin\Debug\net10.0\Task 7.deps.json
+D:\projects\Arrays Homework 2\Task 7\bin\Debug\net10.0\Task 7.runtimeconfig.json
+D:\projects\Arrays Homework 2\Task 7\bin\Debug\net10.0\Task 7.dll
+D:\projects\Arrays Homework 2\Task 7\bin\Debug\net10.0\Task 7.pdb
+D:\projects\Arrays Homework 2\Task 7\obj\Debug\net10.0\Task 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\projects\Arrays Homework 2\Task 7\obj\Debug\net10.0\Task 7.AssemblyInfoInputs.cache
+D:\projects\Arrays Homework 2\Task 7\obj\Debug\net10.0\Task 7.AssemblyInfo.cs
+D:\projects\Arrays Homework 2\Task 7\obj\Debug\net10.0\Task 7.csproj.CoreCompileInputs.cache
+D:\projects\Arrays Homework 2\Task 7\obj\Debug\net10.0\Task 7.dll
+D:\projects\Arrays Homework 2\Task 7\obj\Debug\net10.0\refint\Task 7.dll
+D:\projects\Arrays Homework 2\Task 7\obj\Debug\net10.0\Task 7.pdb
+D:\projects\Arrays Homework 2\Task 7\obj\Debug\net10.0\Task 7.genruntimeconfig.cache
+D:\projects\Arrays Homework 2\Task 7\obj\Debug\net10.0\ref\Task 7.dll
